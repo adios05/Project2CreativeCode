@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Playball&display=swap");
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+p {
+  color: #000000;
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-left: 37%;
+  max-width: 500px;
+}
+h1 {
+  padding: 5px;
+
+  font-size: 200%;
+  text-align: CENTER;
+  color: #000000;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+  color: #000000;
+  font-family: "Protest Riot", sans-serif;
+   text-align: CENTER;
+  font-weight: 400;
+  font-style: normal;
+  padding-left: 37%;
+  max-width: 500px;
+}
+div {
+  background-color: pink;
+}
+
+#banner {
+  padding: 5px;
+  letter-spacing: 10px;
+  font-size: 200%;
+  text-align: CENTER;
+  justify-content: center;
+  border: 5px solid lightblue;
+}
+
+#button-holder {
+  padding: 5px;
+  font-size: 150%;
+  text-align: CENTER;
+  border: solid lightblue;
+}
+#Instructions{ 
+padding: 5px;
+  text-align: CENTER;
+  border: solid lightblue;
+}
+
+#Artist-Statement{
+  padding: 5px;
+  text-align: CENTER;
+  border: solid lightblue;
+}
